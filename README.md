@@ -1,3 +1,5 @@
+[![CI (CMake)](https://github.com/Tanker187/re2/actions/workflows/ci-cmake.yml/badge.svg)](https://github.com/Tanker187/re2/actions/workflows/ci-cmake.yml)
+
 [![CI (Bazel)](https://github.com/Tanker187/re2/actions/workflows/ci-bazel.yml/badge.svg)](https://github.com/Tanker187/re2/actions/workflows/ci-bazel.yml)
 
 
