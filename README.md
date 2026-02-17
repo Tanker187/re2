@@ -1,3 +1,6 @@
+[![CI (Bazel)](https://github.com/Tanker187/re2/actions/workflows/ci-bazel.yml/badge.svg)](https://github.com/Tanker187/re2/actions/workflows/ci-bazel.yml)
+
+
 # RE2, a regular expression library
 
 RE2 is an efficient, principled regular expression library
